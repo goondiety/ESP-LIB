@@ -833,7 +833,7 @@ end)
     TextBox.Size = UDim2.new(0, 120, 0, 27)
     TextBox.ClearTextOnFocus = false
     TextBox.Text = ""
-    TextBox.PlaceholderText = "Enter key"
+    TextBox.PlaceholderText = "Enter Value"
     TextBox.PlaceholderColor3 = Color3.fromRGB(150, 150, 150)
     TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
     TextBox.TextSize = 14
